@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+h1{
+    color: rgb(6, 100, 34) ;
+}
+hr{
+    width: 5%;
+    border-style: none;
+    border-top: 5px rgb(149, 168, 167) dotted;
+}
